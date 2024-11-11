@@ -7,7 +7,8 @@ information, ensuring they can plan their travels efficiently and avoid missing 
 
 ## Features
 
-- **Real-time train delay tracking: Fetches data about train schedules and delays from an external API.
+- **Real-time train delay tracking**: Fetches data about train schedules and delays from an external API using [Metrolink GTFS](https://metrolinktrains.com/about/gtfs/gtfs-rt-access/) and [Google 
+GTFS](https://developers.google.com/transit/gtfs)
 - **Notifications**: Alerts users of upcoming train delays via SMS.
 - **User preferences**: Customizable settings to receive notifications based on train lines, stations and specific times. 
     - Initially, settings will need to be inputted via terminal or manually.
