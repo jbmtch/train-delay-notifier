@@ -18,7 +18,7 @@ information, ensuring they can plan their travels efficiently and avoid missing 
 - **Requests**: For making HTTP requests to fetch real-time data.
 - **API**: Integrates with Metrolink API (or build a mock API for local testing)
 
-## Getting Started 
+## Getting  Started 
 
 ### Prerequisites
 
