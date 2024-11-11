@@ -6,8 +6,8 @@
 
   - Set Up Project Structure:
 
-      - Created the project folder structure using mkdir and touch commands to organize directories and files efficiently.
-      - Established a Python-based project layout, including separate folders for src, tests, and configuration files.
+      - Created the project folder structure using `mkdir` and `touch` commands to organize directories and files efficiently.
+      - Established a Python-based project layout, including separate folders for `src`, `tests`, and configuration files.
 
   - Version Control Configuration:
 
@@ -15,14 +15,14 @@
 
   - Environment Management:
 
-      - Implemented a .env file to securely store sensitive API keys. This helps in managing credentials without exposing them publicly in version control.
+      - Implemented a `.env` file to securely store sensitive API keys. This helps in managing credentials without exposing them publicly in version control.
 
 ### **Challenges and Solutions:**
 
   - Challenge: Initial confusion over using the correct GitHub account in the terminal.
-     - *Solution:* Updated global Git configuration using git config --global user.email "myemail@example.com" and git config --global user.name "My Name" to ensure it matched the main GitHub account.
+     - *Solution:* Updated global Git configuration using `git config --global user.email "myemail@example.com"` and `git config --global user.name "My Name"` to ensure it matched the main GitHub account.
   - Challenge: Understanding how to create and use a .env file for secure credential storage.
-     - *Solution:* Researched best practices and applied python-dotenv to load environment variables in Python.
+     - *Solution:* Researched best practices and applied `python-dotenv` to load environment variables in Python.
 
 ### **Key Learnings:**
 
