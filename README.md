@@ -32,7 +32,7 @@ GTFS](https://developers.google.com/transit/gtfs)
 
 1. Go to Metrolink Trains GTFS Realtime [link](https://metrolinktrains.com/about/gtfs/) and scroll to the bottom to click on the button 'Sign up for a Metrolink GTFS - Realtime API KEY today'
 2. Input email information and check email to receive API key.
-3. When you clone this repository, in your local .env file, add the API key and the email associated with your API key, into the appriopriate variables: 
-    - METROLINK_REALTIME_APIKEY
-    - METROLINK_EMAIL
+3. When you clone this repository, in your local `.env` file, add the API key and the email associated with your API key, into the appriopriate variables: 
+    - `METROLINK_REALTIME_APIKEY`
+    - `METROLINK_EMAIL`
  
